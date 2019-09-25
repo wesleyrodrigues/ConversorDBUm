@@ -1,4 +1,4 @@
-# ConversorDBUm (Mobile) Em breve
+# ConversorDBU (Mobile) Em breve
 ConversorDBU(Decimal, Binário, Unicode)m é uma aplicação de conversão de valores.
 
 Você pode converter valores digitando em qualquer campo e pressionando o botão **Converter**.
